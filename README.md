@@ -1,3 +1,5 @@
-# canvas
+# HTML5 and JavaScript canvas basic example
 
-- empty HTML5 and JavaScipt canvas + loop + fps counter
+- canvas
+- infinite loop
+- fps counter
